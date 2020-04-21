@@ -1,0 +1,11 @@
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\bin\Debug\8_puzzleGUI.exe.config
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\bin\Debug\8_puzzleGUI.exe
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\bin\Debug\8_puzzleGUI.pdb
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\8_puzzleGUI.csprojAssemblyReference.cache
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\_8_puzzleGUI.Form1.resources
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\_8_puzzleGUI.Properties.Resources.resources
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\8_puzzleGUI.csproj.GenerateResource.cache
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\8_puzzleGUI.csproj.CoreCompileInputs.cache
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\8_puzzleGUI.exe
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\8_puzzleGUI.pdb
+C:\Users\rainb\source\repos\8_puzzleGUI\8_puzzleGUI\obj\Debug\_8_puzzleGUI.Form2.resources
